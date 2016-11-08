@@ -1,0 +1,11 @@
+{
+  "name": "htmleditor",
+  "version": "1.0.0",
+  "description": "An HTML Editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Tickle < jeff at jeff tickle dot com >",
+  "license": "GPL-3.0"
+}
